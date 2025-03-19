@@ -1,5 +1,7 @@
 # 📊 Interactive Healthcare Dashboard  
 
+![Dashboard Preview](Interactive_healthcare_dashboard.png)  
+
 ## 🚀 Project Overview  
 This project is an **interactive healthcare dashboard** built in **Excel** to analyze patient demographics, hospital admissions, and key healthcare insights. The dashboard provides a **comprehensive overview** of hospital emergency statistics, helping stakeholders make data-driven decisions.  
 
